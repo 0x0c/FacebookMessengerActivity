@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "FacebookMessengerActivity"
+  s.name             = "M2DFacebookMessengerActivity"
   s.version          = "0.1.0"
   s.summary          = "Share with Facebook Messenger App."
   s.description      = <<-DESC
