@@ -16,7 +16,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 FacebookMessengerActivity is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-    pod "FacebookMessengerActivity"
+    pod "M2DFacebookMessengerActivity"
 
 ## Author
 
