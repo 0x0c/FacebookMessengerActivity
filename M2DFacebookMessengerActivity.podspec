@@ -25,12 +25,12 @@ https://developers.facebook.com/docs/ios/getting-started/
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes'
+  s.source_files = 'Pod/Classes/FacebookMessengerActivity/*'
   s.resource_bundles = {
     'FacebookMessengerActivity' => ['Pod/Assets/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Facebook-iOS-SDK', '~> 3.21.1'
 end

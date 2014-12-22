@@ -29,6 +29,7 @@
 		E930F5171A47D4EF006D3A99 /* FacebookMessenger@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = E930F50D1A47D4EF006D3A99 /* FacebookMessenger@2x~ipad.png */; };
 		E930F5181A47D4EF006D3A99 /* FacebookMessenger~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = E930F50E1A47D4EF006D3A99 /* FacebookMessenger~ipad.png */; };
 		E930F51A1A47D4EF006D3A99 /* M2DFacebookMessengerActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = E930F5131A47D4EF006D3A99 /* M2DFacebookMessengerActivity.m */; };
+		E930F51C1A47D7FC006D3A99 /* M2DFacebookMessengerActivity.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E930F51B1A47D7FC006D3A99 /* M2DFacebookMessengerActivity.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,7 +43,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0A76AE8B9C0168381D238873 /* FacebookMessengerActivity.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = FacebookMessengerActivity.podspec; path = ../FacebookMessengerActivity.podspec; sourceTree = "<group>"; };
 		40EDA2B73F38EF8404811BCB /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5B4F6B2BA25415C60D53055A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* FacebookMessengerActivity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FacebookMessengerActivity.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -76,6 +76,7 @@
 		E930F50E1A47D4EF006D3A99 /* FacebookMessenger~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FacebookMessenger~ipad.png"; sourceTree = "<group>"; };
 		E930F5121A47D4EF006D3A99 /* M2DFacebookMessengerActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = M2DFacebookMessengerActivity.h; sourceTree = "<group>"; };
 		E930F5131A47D4EF006D3A99 /* M2DFacebookMessengerActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = M2DFacebookMessengerActivity.m; sourceTree = "<group>"; };
+		E930F51B1A47D7FC006D3A99 /* M2DFacebookMessengerActivity.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = M2DFacebookMessengerActivity.podspec; path = ../M2DFacebookMessengerActivity.podspec; sourceTree = "<group>"; };
 		EE61A1CFDBD1CDF965438165 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F524A80A198C7A07D8B97A7D /* Pods-FacebookMessengerActivity.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacebookMessengerActivity.release.xcconfig"; path = "Pods/Target Support Files/Pods-FacebookMessengerActivity/Pods-FacebookMessengerActivity.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -189,7 +190,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				0A76AE8B9C0168381D238873 /* FacebookMessengerActivity.podspec */,
+				E930F51B1A47D7FC006D3A99 /* M2DFacebookMessengerActivity.podspec */,
 				5B4F6B2BA25415C60D53055A /* README.md */,
 				946FB87145C0DEF705391553 /* LICENSE */,
 			);
@@ -334,6 +335,7 @@
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F5A1195388D20070C39A /* Main_iPhone.storyboard in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				E930F51C1A47D7FC006D3A99 /* M2DFacebookMessengerActivity.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
