@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'FacebookMessengerActivity', :exclusive => true do
+  pod "FacebookMessengerActivity", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "FacebookMessengerActivity", :path => "../"
+
+  
+end
