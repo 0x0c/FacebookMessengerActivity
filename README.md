@@ -1,9 +1,9 @@
 # FacebookMessengerActivity
 
-[![CI Status](http://img.shields.io/travis/Akira Matsuda/FacebookMessengerActivity.svg?style=flat)](https://travis-ci.org/Akira Matsuda/FacebookMessengerActivity)
-[![Version](https://img.shields.io/cocoapods/v/FacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/FacebookMessengerActivity)
-[![License](https://img.shields.io/cocoapods/l/FacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/FacebookMessengerActivity)
-[![Platform](https://img.shields.io/cocoapods/p/FacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/FacebookMessengerActivity)
+[![CI Status](http://img.shields.io/travis/Akira Matsuda/M2DFacebookMessengerActivity.svg?style=flat)](https://travis-ci.org/Akira Matsuda/M2DFacebookMessengerActivity)
+[![Version](https://img.shields.io/cocoapods/v/M2DFacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/M2DFacebookMessengerActivity)
+[![License](https://img.shields.io/cocoapods/l/M2DFacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/M2DFacebookMessengerActivity)
+[![Platform](https://img.shields.io/cocoapods/p/M2DFacebookMessengerActivity.svg?style=flat)](http://cocoadocs.org/docsets/M2DFacebookMessengerActivity)
 
 ## Usage
 
@@ -25,4 +25,3 @@ Akira Matsuda, akira.matsuda@me.com
 ## License
 
 FacebookMessengerActivity is available under the MIT license. See the LICENSE file for more info.
-
