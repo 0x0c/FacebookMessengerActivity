@@ -32,7 +32,16 @@
 
 - (UIImage *)activityImage
 {
-    return [UIImage imageNamed:@"FacebookMessenger.png"];
+  UIImage *image =  [UIImage imageNamed:@"FacebookMessenger.png"];
+  if (image==nil) {
+    NSBundle *bundle = [NSBundle bundleWithPath:[[NSBundle mainBundle]
+                                                 pathForResource:@"FacebookMessengerActivity"
+                                                 ofType:@"bundle"]];
+    image = [UIImage imageNamed:@"FacebookMessenger.png"
+                       inBundle:bundle
+  compatibleWithTraitCollection:nil];
+  }
+  return image;
 }
 
 - (NSString *)activityTitle
