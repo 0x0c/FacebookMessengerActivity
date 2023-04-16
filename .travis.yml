@@ -10,3 +10,5 @@ install:
 - gem install xcpretty --no-rdoc --no-ri --no-document --quiet
 script:
 - set -o pipefail && xcodebuild test -workspace Example/FacebookMessengerActivity.xcworkspace -scheme FacebookMessengerActivity -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO | xcpretty -c
+
+# Added comment - 
